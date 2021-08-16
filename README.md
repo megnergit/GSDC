@@ -5,7 +5,7 @@
 This is the summary of my solution in the kaggle competition "Google
 Smartphone Decimeter Challenge". 
 
-![Google Smartphone Decimeter Challenge](https://www.kaggle.com/c/google-smartphone-decimeter-challenge/overview)
+[Google Smartphone Decimeter Challenge](https://www.kaggle.com/c/google-smartphone-decimeter-challenge/overview)
 
 The rough sketch of the solution is shown in this README with 
 part of the codes are presented as needed. The whole codes are 
